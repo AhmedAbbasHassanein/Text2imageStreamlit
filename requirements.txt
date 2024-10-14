@@ -1,4 +1,3 @@
 diffusers
 streamlit
-localtunnel
 accelerate
